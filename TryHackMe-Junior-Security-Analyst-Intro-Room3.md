@@ -21,10 +21,6 @@
   - IT admin VPN compromise for internal network access
   - Social engineering of government staff for sensitive information
 
-**Questions and answers**
-- What or who is the weakest link in cyber security? **Humans**
-- What do attackers seek when targeting humans in a cyberattack? **Access**
-
 ### Task 3 – Social engineering methods
 - Core concept: victims are manipulated into helping the attacker, often unknowingly.
 - Effective social engineering is usually:
