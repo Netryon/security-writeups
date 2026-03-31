@@ -1,12 +1,12 @@
-# TryHackMe – Junior Security Analyst Intro (Room 4: Systems as Attack Vectors)
+# TryHackMe – Systems as Attack Vectors
 
-**Room:** Junior Security Analyst Intro – Room 4 (Systems as Attack Vectors)  
+**Path:** Junior Security Analyst Intro – Systems as Attack Vectors  
 **Platform:** TryHackMe  
 **Focus:** How hosts, servers, and platforms are targeted directly (not only via users), and how analysts think about defense.
 
 ---
 
-## What the room covered
+## What was covered
 
 ### Task 1 – Introduction
 - Systems themselves can be primary targets, not just people in the loop.
@@ -97,4 +97,4 @@ Emphasis on **mitigation + detection**: prevent what you can; monitor and respon
 
 ---
 
-*Part of the TryHackMe Junior Security Analyst Intro path. Writeup: Room 4 (Systems as Attack Vectors).*
+*Part of the TryHackMe Junior Security Analyst Intro path.*
