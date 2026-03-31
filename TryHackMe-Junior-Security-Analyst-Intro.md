@@ -1,14 +1,14 @@
-# TryHackMe – Junior Security Analyst Intro (Room 1)
+# TryHackMe – Junior Security Analyst Intro
 
-**Room:** Junior Security Analyst Intro (first of 3 in the path)  
+**Path:** Junior Security Analyst Intro  
 **Platform:** TryHackMe  
 **Focus:** SOC role, team structure, and a simulated day-in-the-life alert workflow.
 
 ---
 
-## What the room covered
+## What was covered
 
-1. **Your role and team** – You play a junior analyst; your team is the SOC team. The room reinforces that you’re part of the Security Operations Center.
+1. **Your role and team** – You play a junior analyst; your team is the SOC team. The module reinforces that you’re part of the Security Operations Center.
 2. **SOC team structure** – Introduced roles: Senior Analyst, SOC Engineer, SOC Manager, Incident Responder, and what each typically does. No quiz; informational.
 3. **Day in the life** – A simulated alert dashboard with Critical, Medium, and Low alerts. You work through one malicious alert from triage to escalation to firewall block.
 
@@ -20,7 +20,7 @@
 - **IP lookup:** Used the “IP Hunter” tab, pasted the IP, and reviewed the result to confirm it was malicious and/or linked to other activity.
 - **Escalation:** Escalated to the **SOC Team Lead** (my senior analyst), because for a junior analyst he’s the right person to go to when I need guidance or don’t fully understand something—escalating to the wrong role would have been incorrect.
 - **Remediation:** The team lead analyzed the alert and asked me to **block the IP in the firewall**. In the firewall tab I added a **deny rule** for that IP and included a **comment** (e.g. reason or ticket reference).
-- **Completion:** Received the completion code and finished the room.
+- **Completion:** Received the completion code and finished the module.
 
 ---
 
@@ -40,4 +40,4 @@
 
 ---
 
-*Part of the TryHackMe Junior Security Analyst path. Room 2 and 3 writeups to follow.*
+*Part of the TryHackMe Junior Security Analyst path.*
