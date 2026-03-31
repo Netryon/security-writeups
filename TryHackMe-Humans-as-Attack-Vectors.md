@@ -1,12 +1,12 @@
-# TryHackMe – Junior Security Analyst Intro (Room 3: Humans as Attack Vectors)
+# TryHackMe – Humans as Attack Vectors
 
-**Room:** Junior Security Analyst Intro – Room 3 (Humans as Attack Vectors)  
+**Path:** Junior Security Analyst Intro – Humans as Attack Vectors  
 **Platform:** TryHackMe  
 **Focus:** Social engineering, human-centered attack paths, and SOC mitigation/detection mindset.
 
 ---
 
-## What the room covered
+## What was covered
 
 ### Task 1 – Introduction
 - Intro to why the human element is often the weakest target in cybersecurity.
@@ -14,12 +14,16 @@
 
 ### Task 2 – Why attackers target people
 - It is often easier to trick people than bypass hardened infrastructure.
-- The room compares organizations to a fortress where humans are gatekeepers.
+- The module compares organizations to a fortress where humans are gatekeepers.
 - Example outcomes of human-targeted compromise:
   - HR account compromise for employee data theft
   - Malware delivery to hijack banking sessions
   - IT admin VPN compromise for internal network access
   - Social engineering of government staff for sensitive information
+
+**Questions and answers**
+- What or who is the weakest link in cyber security? **Humans**
+- What do attackers seek when targeting humans in a cyberattack? **Access**
 
 ### Task 3 – Social engineering methods
 - Core concept: victims are manipulated into helping the attacker, often unknowingly.
@@ -51,7 +55,7 @@
   - Stronger authentication
   - Better email filtering and reporting workflows
 
-### Task 6 – Room wrap-up
+### Task 6 – Wrap-up
 - Final takeaway: humans remain a primary target, and analyst value comes from recognizing patterns early and coordinating effective response.
 
 ---
@@ -72,5 +76,5 @@
 
 ---
 
-*Part of the TryHackMe Junior Security Analyst Intro path. Rooms 1–3 now completed with writeups.*
+*Part of the TryHackMe Junior Security Analyst Intro path.*
 
