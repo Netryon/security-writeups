@@ -1,12 +1,12 @@
-# TryHackMe – Junior Security Analyst Intro (Room 2: SOC Role in Blue Team)
+# TryHackMe – SOC Role in Blue Team
 
-**Room:** Junior Security Analyst Intro – Room 2 (SOC Role in Blue Team)  
+**Path:** Junior Security Analyst Intro – SOC Role in Blue Team  
 **Platform:** TryHackMe  
 **Focus:** Blue Team structure, SOC roles, SOC vs MSSP, and role-to-incident assignment.
 
 ---
 
-## What the room covered
+## What was covered
 
 ### Task 1 – Intro to SOC L1
 - Overview of what an L1 analyst does.
@@ -81,5 +81,5 @@ As CISO, assign the correct role to each incident type:
 
 ---
 
-*Part of the TryHackMe Junior Security Analyst Intro path. Room 3 writeup to follow.*
+*Part of the TryHackMe Junior Security Analyst Intro path.*
 
